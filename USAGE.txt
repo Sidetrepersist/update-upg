@@ -1,0 +1,9 @@
+# Non-obvious usage note
+
+To acknowledge today's bulletin without reading it again:
+
+    ~/.dgrid/notice.sh --ack
+
+Permanent ack (stops future notices):
+
+    touch ~/.dgrid/verified
